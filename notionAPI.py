@@ -1,7 +1,7 @@
 import requests, json
 import sys
 
-token = 'secret_eu9NvaTv04r4xiNeAVVKcIxZ2voFEr6tnwDABfVKFx5'
+token = 'secret_******************************************'
 databaseId = '5bb52448afc448c29085e98a7de3b46d'
 headers = {
     "Authorization": "Bearer " + token,
